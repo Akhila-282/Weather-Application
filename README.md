@@ -40,8 +40,6 @@ This application uses the OpenWeatherMap API to fetch weather data. You need to 
 API_key = "YOUR_API_KEY"
 ```
 
-## Important Note
-Please note that this program has a knowledge cutoff date of January 2022, and the functionality may be affected if the API or libraries have undergone significant changes after that date.
 
 ## License 📄
 This project is open-source and available under the [MIT License](LICENSE).
